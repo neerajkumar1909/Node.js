@@ -1,3 +1,7 @@
 # NodeJS-zeroToIntermediate
-you can go through this lecture directly by class1.js
-The "index.html" file is not associated with any classes, but it contains details about the classes in which certain folders were created.
+Step 1 : install Node.js in your PC                                                                                                                                                                                     
+Step 2 : open this file in VS-Code                                                                                                                                                                                      
+Step 3 : open terminal in VS-Code and write "node fileName.js" to get the output.                                                                                                                                       
+
+# Note : 
+Please uncomment the lines of code which you want to check the output
